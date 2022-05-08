@@ -1,0 +1,14 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\Vishal\Desktop\vishu soft\mobile_shop\dist\mobile.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Vishal\Desktop\vishu soft\mobile_shop\dist\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	bin\jre
+Check launcher:	C:\Users\Vishal\Desktop\vishu soft\mobile_shop\dist\bin\jre\bin\javaw.exe (OK)
+Launcher:	C:\Users\Vishal\Desktop\vishu soft\mobile_shop\dist\bin\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Vishal\Desktop\vishu soft\mobile_shop\dist\mobile.exe"
+Args length:	69/32768 chars
+Exit code:	0
